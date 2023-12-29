@@ -53,7 +53,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 DEVELOPED BY S.VENGADA KRISHNAN
 
-REG.NO:23006109
+REG.NO:212223110061
 
 ![1](https://github.com/SVENGADAKRISHNAN/Mean-and-Variance/assets/147473084/c92accd6-df47-4c37-86ae-c3cc4b390e50)
 
